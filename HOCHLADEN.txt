@@ -1,0 +1,22 @@
+COPPERWING GAMES — WEBSITE HOCHLADEN
+
+Alle Dateien und Ordner aus diesem ZIP in das Webverzeichnis deiner Domain kopieren.
+index.html liegt direkt darin; assets und greenhouse-valley bleiben Unterordner.
+Es sind keine Installation, Datenbank oder zusätzlichen Dienste nötig.
+
+Das Intro läuft einmal pro Browser-Tab. Zum erneuten Testen einen neuen Tab öffnen.
+Datenschutz und Kontolöschung sind enthalten und im Footer verlinkt (Deutsch/Englisch).
+Der Datenschutzentwurf beschreibt GitHub Pages. Bei anderem Hosting diesen Absatz anpassen.
+Impressum / Legal Notice ist enthalten und auf allen Seiten verlinkt.
+
+Ziel-Repository: Johannes495/copperwing-games
+Unter Settings > Pages den Branch main und / (root) wählen, wenn die Dateien direkt im Repository liegen.
+
+Nach dem Upload ohne Anmeldung prüfen:
+https://copperwinggames.com/impressum/
+https://copperwinggames.com/greenhouse-valley/privacy/
+https://copperwinggames.com/greenhouse-valley/delete-account/
+
+Die Spiel-Links führen direkt zu https://greenhousevalley.net/.
+/greenhouse-valley/ leitet per HTML/JavaScript dorthin weiter.
+Die Unterseiten privacy/ und delete-account/ bleiben lokal erhalten.
